@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuiteSaucedemo,Firefox 123.0,,,18-03-2024 16:20:10,18-03-2024 16:20:31,"20,602s",PASSED
+,,,,,,,
+Test Cases/TestLogin/Login,Firefox 123.0,,,18-03-2024 16:20:10,18-03-2024 16:20:19,"9,056s",PASSED
+"openBrowser("""")",Firefox 123.0,,,18-03-2024 16:20:10,18-03-2024 16:20:13,"2,334s",PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 123.0,,,18-03-2024 16:20:13,18-03-2024 16:20:15,"1,812s",PASSED
+"click(findTestObject(""Object Repository/Login_Page/userTxt""))",Firefox 123.0,,,18-03-2024 16:20:15,18-03-2024 16:20:15,"0,534s",PASSED
+"setText(findTestObject(""Object Repository/Login_Page/userTxt""), ""standard_user"")",Firefox 123.0,,,18-03-2024 16:20:15,18-03-2024 16:20:16,"0,504s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login_Page/passTxt""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 123.0,,,18-03-2024 16:20:16,18-03-2024 16:20:16,"0,490s",PASSED
+"click(findTestObject(""Object Repository/Login_Page/loginBtn""))",Firefox 123.0,,,18-03-2024 16:20:16,18-03-2024 16:20:17,"0,692s",PASSED
+"click(findTestObject(""Object Repository/Login_Page/div_Sauce Labs Backpackcarry.allTheThings()_33489d""))",Firefox 123.0,,,18-03-2024 16:20:17,18-03-2024 16:20:17,"0,468s",PASSED
+"doubleClick(findTestObject(""Object Repository/Login_Page/productsSpan""))",Firefox 123.0,,,18-03-2024 16:20:17,18-03-2024 16:20:18,"0,377s",PASSED
+"click(findTestObject(""Object Repository/Login_Page/div_Sauce Labs Backpackcarry.allTheThings()_33489d""))",Firefox 123.0,,,18-03-2024 16:20:18,18-03-2024 16:20:18,"0,470s",PASSED
+"takeScreenshot(""D:/2024/Projects QA/Katalon - Automation/Project-Saucedemo/Imagenes/test.png"")",Firefox 123.0,,,18-03-2024 16:20:18,18-03-2024 16:20:18,"0,352s",PASSED
+closeBrowser(),Firefox 123.0,,,18-03-2024 16:20:18,18-03-2024 16:20:19,"0,861s",PASSED
+,,,,,,,
+Test Cases/TestCarritoCompras/CarritoCompra,Firefox 123.0,,,18-03-2024 16:20:19,18-03-2024 16:20:31,"11,413s",PASSED
+"openBrowser("""")",Firefox 123.0,,,18-03-2024 16:20:19,18-03-2024 16:20:21,"1,590s",PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Firefox 123.0,,,18-03-2024 16:20:21,18-03-2024 16:20:25,"4,311s",PASSED
+"click(findTestObject(""Object Repository/Login_Page/userTxt""))",Firefox 123.0,,,18-03-2024 16:20:25,18-03-2024 16:20:26,"0,484s",PASSED
+"setText(findTestObject(""Object Repository/Login_Page/userTxt""), ""standard_user"")",Firefox 123.0,,,18-03-2024 16:20:26,18-03-2024 16:20:26,"0,488s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login_Page/passTxt""), ""qcu24s4901FyWDTwXGr6XA=="")",Firefox 123.0,,,18-03-2024 16:20:26,18-03-2024 16:20:27,"0,485s",PASSED
+"click(findTestObject(""Object Repository/Login_Page/loginBtn""))",Firefox 123.0,,,18-03-2024 16:20:27,18-03-2024 16:20:27,"0,696s",PASSED
+"click(findTestObject(""Object Repository/Login_Page/div_Sauce Labs Backpackcarry.allTheThings()_33489d""))",Firefox 123.0,,,18-03-2024 16:20:27,18-03-2024 16:20:28,"0,456s",PASSED
+"click(findTestObject(""Object Repository/Carrito_Page/button_Add to cart""))",Firefox 123.0,,,18-03-2024 16:20:28,18-03-2024 16:20:28,"0,564s",PASSED
+"click(findTestObject(""Object Repository/Carrito_Page/button_Add to cart_1""))",Firefox 123.0,,,18-03-2024 16:20:28,18-03-2024 16:20:29,"0,452s",PASSED
+"click(findTestObject(""Object Repository/Carrito_Page/a_2""))",Firefox 123.0,,,18-03-2024 16:20:29,18-03-2024 16:20:29,"0,464s",PASSED
+"click(findTestObject(""Object Repository/Carrito_Page/span_Your Cart""))",Firefox 123.0,,,18-03-2024 16:20:29,18-03-2024 16:20:30,"0,467s",PASSED
+"takeScreenshot(""D:/2024/Projects QA/Katalon - Automation/Project-Saucedemo/Imagenes/test1.png"")",Firefox 123.0,,,18-03-2024 16:20:30,18-03-2024 16:20:30,"0,266s",PASSED
+closeBrowser(),Firefox 123.0,,,18-03-2024 16:20:30,18-03-2024 16:20:31,"0,659s",PASSED
